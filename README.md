@@ -2,7 +2,7 @@
 
 
 ## :mag: The content
-In these exercises, I had to design a **database for a Gossips website*.
+In these exercises, I had to design a **database for a Gossips website**.
 
 ***This includes :***
 * Users,
